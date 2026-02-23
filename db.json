@@ -17,7 +17,7 @@
               "nombre": "Manolo",
               "state":true,
               "cartas": [4, 6, 9]
-            }
+            },
             {
               "id": 4,
               "nombre": "Maria Alejandra",
