@@ -4,25 +4,25 @@
               "id": 1,
               "nombre": "Luciana",
               "state":true,
-              "cartas": [1, 5, 8]
+              "characters": [1, 5, 8]
             },
             {
               "id": 2,
               "nombre": "Nicolás",
               "state":true,
-              "cartas": [2, 3, 7]
+              "characters": [2, 3, 7]
             },
             {
               "id": 3,
               "nombre": "Manolo",
               "state":true,
-              "cartas": [4, 6, 9]
+              "characters": [4, 6, 9]
             },
             {
               "id": 4,
               "nombre": "Maria Alejandra",
               "state":true,
-              "cartas": [4, 6, 9]
+              "characters": [17, 11, 19]
             }
   ]
   ,
